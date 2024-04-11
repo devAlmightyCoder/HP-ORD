@@ -1,0 +1,308 @@
+{
+    "glossary": {
+        "title": "1982",
+        "season": "Vår",
+        "glossaryList":[
+            {
+                "number": "1",
+                "question": "stadfästa",
+                "a": "godkänna",
+                "b": "upplysa",
+                "c": "anbringa",
+                "d": "tillägga",
+                "e": "utveckla",
+                "answer": "godkänna"
+            },
+            {
+                "number": "2",
+                "question": "kuperad",
+                "a": "hård",
+                "b": "krokig",
+                "c": "ojämn",
+                "d": "rundad",
+                "e": "brokig",
+                "answer": "ojämn"
+            },
+            {
+                "number": "3",
+                "question": "nautik",
+                "a": "sjövetenskap",
+                "b": "nakenkultur",
+                "c": "växtfärgning",
+                "d": "naturbeskrivning",
+                "e": "flygkonst",
+                "answer": "sjövetenskap"
+            },
+            {
+                "number": "4",
+                "question": "ajournera",
+                "a": "uppnå",
+                "b": "uppskjuta",
+                "c": "upplysa",
+                "d": "uppmana",
+                "e": "uppsöka",
+                "answer": "uppskjuta"
+            },
+            {
+                "number": "5",
+                "question": "rubank",
+                "a": "stege",
+                "b": "hyvel",
+                "c": "skål",
+                "d": "båt",
+                "e": "uthus",
+                "answer": "hyvel"
+            },
+            {
+                "number": "6",
+                "question": "gourmet",
+                "a": "drömtydare",
+                "b": "bedragare",
+                "c": "beskyddare",
+                "d": "upprorsmakare",
+                "e": "finsmakare",
+                "answer": "finsmakare"
+            },
+            {
+                "number": "7",
+                "question": "enkät",
+                "a": "kallelse",
+                "b": "anteckning",
+                "c": "rundfråga",
+                "d": "ansökan",
+                "e": "tillstånd",
+                "answer": "rundfråga"
+            },
+            {
+                "number": "8",
+                "question": "konträr",
+                "a": "motsatt",
+                "b": "omstridd",
+                "c": "ogiltig",
+                "d": "besvärlig",
+                "e": "påtaglig",
+                "answer": "motsatt"
+            },
+            {
+                "number": "9",
+                "question": "syntes",
+                "a": "ersättning",
+                "b": "kännetecken",
+                "c": "beställning",
+                "d": "förslag",
+                "e": "sammanställning",
+                "answer": "sammanställning"
+            },
+            {
+                "number": "10",
+                "question": "respons",
+                "a": "avslag",
+                "b": "avsked",
+                "c": "svar",
+                "d": "frist",
+                "e": "förfrågan",
+                "answer": "svar"
+            },
+            {
+                "number": "11",
+                "question": "suggerera",
+                "a": "påverka",
+                "b": "ersätta",
+                "c": "befalla",
+                "d": "utnyttja",
+                "e": "understödja",
+                "answer": "påverka"
+            },
+            {
+                "number": "12",
+                "question": "fjärma",
+                "a": "avlägsna",
+                "b": "bortförklara",
+                "c": "sammanföra",
+                "d": "anvisa",
+                "e": "begränsa",
+                "answer": "avlägsna"
+            },
+            {
+                "number": "13",
+                "question": "hybris",
+                "a": "lockelse",
+                "b": "inbilskhet",
+                "c": "sans",
+                "d": "utsträlning",
+                "e": "övermod",
+                "answer": "övermod"
+            },
+            {
+                "number": "14",
+                "question": "blase",
+                "a": "gammalmodig",
+                "b": "uppmärksam",
+                "c": "nedlåtande",
+                "d": "likgiltig",
+                "e": "klumpig",
+                "answer": "likgiltig"
+            },
+            {
+                "number": "15",
+                "question": "aura",
+                "a": "spira",
+                "b": "sken",
+                "c": "rökelse",
+                "d": "spådom",
+                "e": "doft",
+                "answer": "spira"
+            },
+            {
+                "number": "16",
+                "question": "hemisfär",
+                "a": "stjärnbild",
+                "b": "halvklot",
+                "c": "pol",
+                "d": "fixstjärna",
+                "e": "norrsken",
+                "answer": "halvklot"
+            },
+            {
+                "number": "17",
+                "question": "påtala",
+                "a": "försäkra",
+                "b": "bevisa",
+                "c": "kräva",
+                "d": "beställa",
+                "e": "kritisera",
+                "answer": "kritisera"
+            },
+            {
+                "number": "18",
+                "question": "preferera",
+                "a": "förestå",
+                "b": "förelägga",
+                "c": "föredra",
+                "d": "företaga",
+                "e": "föregripa",
+                "answer": "föredra"
+            },
+            {
+                "number": "19",
+                "question": "kuriös",
+                "a": "framstående",
+                "b": "allvarlig",
+                "c": "underlig",
+                "d": "misstänksam",
+                "e": "vardaglig",
+                "answer": "underlig"
+            },
+            {
+                "number": "20",
+                "question": "ambivalens",
+                "a": "upprördhet",
+                "b": "självmedvetenhet",
+                "c": "överkänslighet",
+                "d": "underlägsenhet",
+                "e": "kluvenhet",
+                "answer": "kluvenhet"
+            },
+            {
+                "number": "21",
+                "question": "maxim",
+                "a": "lag",
+                "b": "tecken",
+                "c": "avtal",
+                "d": "grundsats",
+                "e": "rådslag",
+                "answer": "grundsats"
+            },
+            {
+                "number": "22",
+                "question": "konvergera",
+                "a": "komma tillbaka",
+                "b": "löpa ihop",
+                "c": "gå isär",
+                "d": "komma överens",
+                "e": "avsäga sig",
+                "answer": "löpa ihop"
+            },
+            {
+                "number": "23",
+                "question": "järtecken",
+                "a": "varsel",
+                "b": "hänvisning",
+                "c": "bekräftelse",
+                "d": "adelsmärke",
+                "e": "släktdrag",
+                "answer": "varsel"
+            },
+            {
+                "number": "24",
+                "question": "jävig",
+                "a": "lämplig",
+                "b": "föraktfull",
+                "c": "högljudd",
+                "d": "fridsam",
+                "e": "obehörig",
+                "answer": "obehörig"
+            },
+            {
+                "number": "25",
+                "question": "kantele",
+                "a": "soffa",
+                "b": "vagn",
+                "c": "musikstycke",
+                "d": "blomma",
+                "e": "instrument",
+                "answer": "instrument"
+            },
+            {
+                "number": "26",
+                "question": "plausibel",
+                "a": "löjlig",
+                "b": "verklig",
+                "c": "känslig",
+                "d": "sannolik",
+                "e": "tråkig",
+                "answer": "sannolik"
+            },
+            {
+                "number": "27",
+                "question": "syndrom",
+                "a": "vanföreställning",
+                "b": "sjukdomsbild",
+                "c": "världsbild",
+                "d": "gängbildning",
+                "e": "trosriktning",
+                "answer": "sjukdomsbild"
+            },
+            {
+                "number": "28",
+                "question": "sentens",
+                "a": "motsats",
+                "b": "tänkespråk",
+                "c": "uppslag",
+                "d": "förutsägelse",
+                "e": "andel",
+                "answer": "tänkespråk"
+            },
+            {
+                "number": "29",
+                "question": "didaktisk",
+                "a": "spetsfundig",
+                "b": "uppsluppen",
+                "c": "undervisande",
+                "d": "beräknande",
+                "e": "skiljaktig",
+                "answer": "undervisande"
+            },
+            {
+                "number": "30",
+                "question": "relevant",
+                "a": "föränderlig",
+                "b": "smidig",
+                "c": "betydelsefull",
+                "d": "tålig",
+                "e": "motståndskraftig",
+                "answer": "betydelsefull"
+            }
+        ]
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "glossary": {
+        "title": "1983",
+        "season": "Höst",
+        "glossaryList":[
+            {
+                "number": "1",
+                "question": "bronker",
+                "a": "luftrör",
+                "b": "blokärl",
+                "c": "nervbanor",
+                "d": "hjärnceller",
+                "e": "muskelvävnader",
+                "answer": "luftrör"
+            },
+            {
+                "number": "2",
+                "question": "pretentioner",
+                "a": "överdrifter",
+                "b": "försök",
+                "c": "anspråk",
+                "d": "motsättningar",
+                "e": "förmåner",
+                "answer": "anspråk"
+            },
+            {
+                "number": "3",
+                "question": "eternell",
+                "a": "plågoande",
+                "b": "insektssamling",
+                "c": "kyrkobyggnad",
+                "d": "evighetsblomma",
+                "e": "tygsort",
+                "answer": "evighetsblomma"
+            },
+            {
+                "number": "4",
+                "question": "trägen",
+                "a": "besvärlig",
+                "b": "flitig",
+                "c": "retlig",
+                "d": "långrandig",
+                "e": "pålitlig",
+                "answer": "flitig"
+            },
+            {
+                "number": "5",
+                "question": "dementera",
+                "a": "avslöja",
+                "b": "lova",
+                "c": "fördärva",
+                "d": "granska",
+                "e": "förneka",
+                "answer": "förneka"
+            },
+            {
+                "number": "6",
+                "question": "emotionell",
+                "a": "påhittig",
+                "b": "regelbunden",
+                "c": "tillgjord",
+                "d": "bestämd",
+                "e": "känslomässig",
+                "answer": "känslomässig"
+            },
+            {
+                "number": "7",
+                "question": "streber",
+                "a": "förtryckare",
+                "b": "kvacksalvare",
+                "c": "uppåtsträvare",
+                "d": "uppfinnare",
+                "e": "ersättare",
+                "answer": "uppåtsträvare"
+            },
+            {
+                "number": "8",
+                "question": "bordlägga",
+                "a": "sammankalla",
+                "b": "framlägga",
+                "c": "besluta",
+                "d": "avslå",
+                "e": "uppskjuta",
+                "answer": "uppskjuta"
+            },
+            {
+                "number": "9",
+                "question": "eklatera",
+                "a": "avskeda",
+                "b": "färdigställa",
+                "c": "upplösa",
+                "d": "offentliggöra",
+                "e": "avbryta",
+                "answer": "offentliggöra"
+            },
+            {
+                "number": "10",
+                "question": "stärbhus",
+                "a": "konkursbo",
+                "b": "familjeföretag",
+                "c": "släktgård",
+                "d": "dödsbo",
+                "e": "adelsätt",
+                "answer": "dödsbo"
+            },
+            {
+                "number": "11",
+                "question": "revers",
+                "a": "kontoutdrag",
+                "b": "köpebrev",
+                "c": "återköp",
+                "d": "skuldsedel",
+                "e": "avkastning",
+                "answer": "skuldsedel"
+            },
+            {
+                "number": "12",
+                "question": "stursk",
+                "a": "trotsig",
+                "b": "enfaldig",
+                "c": "lättstött",
+                "d": "illasinnad",
+                "e": "självisk",
+                "answer": "trotsig"
+            },
+            {
+                "number": "13",
+                "question": "dekadans",
+                "a": "förfalla",
+                "b": "besvikelse",
+                "c": "fattigdom",
+                "d": "avvikelse",
+                "e": "likvärdighet",
+                "answer": "förfalla"
+            },
+            {
+                "number": "14",
+                "question": "retroaktiv",
+                "a": "tillbakabildad",
+                "b": "tillbakavisande",
+                "c": "tillbakasatt",
+                "d": "tillbakadragen",
+                "e": "tillbakaverkande",
+                "answer": "tillbakaverkande"
+            },
+            {
+                "number": "15",
+                "question": "dogm",
+                "a": "upprop",
+                "b": "lärosats",
+                "c": "utmärkelse",
+                "d": "befallning",
+                "e": "utmaning",
+                "answer": "lärosats"
+            },
+            {
+                "number": "16",
+                "question": "avhysa",
+                "a": "inställa",
+                "b": "hindra",
+                "c": "bekämpa",
+                "d": "vräka",
+                "e": "svika",
+                "answer": "vräka"
+            },
+            {
+                "number": "17",
+                "question": "auditorium",
+                "a": "utställning",
+                "b": "åhörarkrets",
+                "c": "beundrarskara",
+                "d": "föreläsning",
+                "e": "visning",
+                "answer": "åhörarkrets"
+            },
+            {
+                "number": "18",
+                "question": "nebulosa",
+                "a": "solförmörkelse",
+                "b": "halvklot",
+                "c": "stjärnbild",
+                "d": "stjärntöcken",
+                "e": "norrsken",
+                "answer": "stjärntöcken"
+            },
+            {
+                "number": "19",
+                "question": "applicera",
+                "a": "anbringa",
+                "b": "överlämna",
+                "c": "uppskatta",
+                "d": "utpeka",
+                "e": "inspruta",
+                "answer": "anbringa"
+            },
+            {
+                "number": "20",
+                "question": "kolerisk",
+                "a": "löjlig",
+                "b": "hetsig",
+                "c": "långsam",
+                "d": "vänlig",
+                "e": "uppspelt",
+                "answer": "hetsig"
+            },
+            {
+                "number": "21",
+                "question": "placenta",
+                "a": "moderkaka",
+                "b": "avgjutning",
+                "c": "takmålning",
+                "d": "majsmjöl",
+                "e": "jordegendom",
+                "answer": "moderkaka"
+            },
+            {
+                "number": "22",
+                "question": "sonor",
+                "a": "färgsprakande",
+                "b": "ljudlös",
+                "c": "klangfull",
+                "d": "långvarig",
+                "e": "uttrycksfull",
+                "answer": "klangfull"
+            },
+            {
+                "number": "23",
+                "question": "alludera",
+                "a": "avsluta",
+                "b": "nedvärdera",
+                "c": "tilldela",
+                "d": "anförtro",
+                "e": "anspela",
+                "answer": "anspela"
+            },
+            {
+                "number": "24",
+                "question": "konsternerad",
+                "a": "förargad",
+                "b": "förtvivlad",
+                "c": "försummad",
+                "d": "förödmjukad",
+                "e": "förbryllad",
+                "answer": "förbryllad"
+            },
+            {
+                "number": "25",
+                "question": "fysionomi",
+                "a": "andning",
+                "b": "styrka",
+                "c": "utseende",
+                "d": "själsliv",
+                "e": "sjukdomsbild",
+                "answer": "utseende"
+            },
+            {
+                "number": "26",
+                "question": "opportunism",
+                "a": "anpasslighet",
+                "b": "kärnfullhet",
+                "c": "anspråksfullhet",
+                "d": "avundsamhet",
+                "e": "belåtenhet",
+                "answer": "anpasslighet"
+            },
+            {
+                "number": "27",
+                "question": "subversiv",
+                "a": "envis",
+                "b": "omstörtande",
+                "c": "foglig",
+                "d": "känslig",
+                "e": "inställsam",
+                "answer": "omstörtande"
+            },
+            {
+                "number": "28",
+                "question": "restituera",
+                "a": "begränsa",
+                "b": "instämma",
+                "c": "upprepa",
+                "d": "återbetala",
+                "e": "avbeställa",
+                "answer": "återbetala"
+            },
+            {
+                "number": "29",
+                "question": "polemik",
+                "a": "meningsutbyte",
+                "b": "värdighet",
+                "c": "rörlighet",
+                "d": "minispel",
+                "e": "taktfasthet",
+                "answer": "meningsutbyte"
+            },
+            {
+                "number": "30",
+                "question": "kverulera",
+                "a": "skryta",
+                "b": "låtsas",
+                "c": "klaga",
+                "d": "plåga",
+                "e": "vägra",
+                "answer": "klaga"
+            }
+        ]
+    }
+}

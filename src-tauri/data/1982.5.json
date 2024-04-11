@@ -1,0 +1,308 @@
+{
+    "glossary": {
+        "title": "1982.5",
+        "season": "Höst",
+        "glossaryList":[
+            {
+                "number": "1",
+                "question": "fingerad",
+                "a": "upprepad",
+                "b": "låtsad",
+                "c": "ändrad",
+                "d": "avklarad",
+                "e": "fastställd",
+                "answer": "låtsad"
+            },
+            {
+                "number": "2",
+                "question": "honorar",
+                "a": "hälsning",
+                "b": "uppvisning",
+                "c": "betalning",
+                "d": "uppvaktning",
+                "e": "insamling",
+                "answer": "betalning"
+            },
+            {
+                "number": "3",
+                "question": "makulera",
+                "a": "erbjuda",
+                "b": "beräkna",
+                "c": "överklaga",
+                "d": "förstöra",
+                "e": "återsända",
+                "answer": "förstöra"
+            },
+            {
+                "number": "4",
+                "question": "ockult",
+                "a": "oäkta",
+                "b": "övernaturlig",
+                "c": "opassande",
+                "d": "enastående",
+                "e": "finurlig",
+                "answer": "övernaturlig"
+            },
+            {
+                "number": "5",
+                "question": "erodera",
+                "a": "ilskna till",
+                "b": "ta isär",
+                "c": "nöta bort",
+                "d": "stöta ut",
+                "e": "missta sig",
+                "answer": "nöta bort"
+            },
+            {
+                "number": "6",
+                "question": "uniformitet",
+                "a": "folklighet",
+                "b": "oformlighet",
+                "c": "giltighet",
+                "d": "överlägsenhet",
+                "e": "likformighet",
+                "answer": "likformighet"
+            },
+            {
+                "number": "7",
+                "question": "kryptisk",
+                "a": "hemlighetsfull",
+                "b": "snål",
+                "c": "översvallande",
+                "d": "nedstämd",
+                "e": "omständlig",
+                "answer": "hemlighetsfull"
+            },
+            {
+                "number": "8",
+                "question": "reinkarnation",
+                "a": "återfall",
+                "b": "bortstötning",
+                "c": "tillfrisknande",
+                "d": "återfödelse",
+                "e": "insjuknande",
+                "answer": "återfödelse"
+            },
+            {
+                "number": "9",
+                "question": "universell",
+                "a": "enskild",
+                "b": "påtaglig",
+                "c": "allomfattande",
+                "d": "överskådlig",
+                "e": "ändamålsenlig",
+                "answer": "allomfattande"
+            },
+            {
+                "number": "10",
+                "question": "turbulens",
+                "a": "virvelrörelse",
+                "b": "utvidgning",
+                "c": "inbromsning",
+                "d": "kortslutning",
+                "e": "färgskiftning",
+                "answer": "virvelrörelse"
+            },
+            {
+                "number": "11",
+                "question": "vitrin",
+                "a": "utställningsskåp",
+                "b": "giftblandning",
+                "c": "bakverk",
+                "d": "färgämne",
+                "e": "avloppssystem",
+                "answer": "utställningsskåp"
+            },
+            {
+                "number": "12",
+                "question": "hörsamma",
+                "a": "förtydliga",
+                "b": "befalla",
+                "c": "åhöra",
+                "d": "förnimma",
+                "e": "lyda",
+                "answer": "lyda"
+            },
+            {
+                "number": "13",
+                "question": "stereotyp",
+                "a": "noggrann",
+                "b": "otillräknelig",
+                "c": "slarvig",
+                "d": "tveksam",
+                "e": "oföränderlig",
+                "answer": "oföränderlig"
+            },
+            {
+                "number": "14",
+                "question": "forte",
+                "a": "svagt",
+                "b": "stötvis",
+                "c": "snabbt",
+                "d": "starkt",
+                "e": "sakta",
+                "answer": "starkt"
+            },
+            {
+                "number": "15",
+                "question": "symbios",
+                "a": "åtskillnad",
+                "b": "samlevnad",
+                "c": "motstånd",
+                "d": "medhåll",
+                "e": "självständighet",
+                "answer": "samlevnad"
+            },
+            {
+                "number": "16",
+                "question": "skrodera",
+                "a": "pryda",
+                "b": "förarga",
+                "c": "skryta",
+                "d": "baktala",
+                "e": "skrämma",
+                "answer": "skryta"
+            },
+            {
+                "number": "17",
+                "question": "talisman",
+                "a": "soffa",
+                "b": "trollkarl",
+                "c": "krigare",
+                "d": "skyddsföremål",
+                "e": "helgedom",
+                "answer": "skyddsföremål"
+            },
+            {
+                "number": "18",
+                "question": "nagelfara",
+                "a": "reta",
+                "b": "lura",
+                "c": "granska",
+                "d": "betvivla",
+                "e": "nedgöra",
+                "answer": "granska"
+            },
+            {
+                "number": "19",
+                "question": "beivra",
+                "a": "ingripa mot",
+                "b": "skynda på",
+                "c": "förolämpa",
+                "d": "utmana",
+                "e": "uppmuntra till",
+                "answer": "ingripa mot"
+            },
+            {
+                "number": "20",
+                "question": "diarium",
+                "a": "vattenbehållare",
+                "b": "ormgrop",
+                "c": "uppskov",
+                "d": "dagbok",
+                "e": "räkning",
+                "answer": "dagbok"
+            },
+            {
+                "number": "21",
+                "question": "interaktion",
+                "a": "utrop",
+                "b": "avsikt",
+                "c": "omtagning",
+                "d": "förfrågan",
+                "e": "växelspel",
+                "answer": "växelspel"
+            },
+            {
+                "number": "22",
+                "question": "konsolidera",
+                "a": "upprusta",
+                "b": "förstärka",
+                "c": "begrunda",
+                "d": "tillerkänna",
+                "e": "förhandla",
+                "answer": "förstärka"
+            },
+            {
+                "number": "23",
+                "question": "defaitism",
+                "a": "modlöshet",
+                "b": "inställsamhet",
+                "c": "ofullständighet",
+                "d": "efterblivenhet",
+                "e": "ålderssvaghet",
+                "answer": "modlöshet"
+            },
+            {
+                "number": "24",
+                "question": "bilateral",
+                "a": "ostadig",
+                "b": "oegennyttig",
+                "c": "ömsesidig",
+                "d": "planmässig",
+                "e": "tvetydlig",
+                "answer": "ömsesidig"
+            },
+            {
+                "number": "25",
+                "question": "skrupler",
+                "a": "baktankar",
+                "b": "motsättningar",
+                "c": "oförrätter",
+                "d": "förevändningar",
+                "e": "betänkligheter",
+                "answer": "betänkligheter"
+            },
+            {
+                "number": "26",
+                "question": "enlevera",
+                "a": "avskeda",
+                "b": "bortföra",
+                "c": "utlämna",
+                "d": "anlita",
+                "e": "överge",
+                "answer": "bortföra"
+            },
+            {
+                "number": "27",
+                "question": "bifurkation",
+                "a": "urgröpning",
+                "b": "anhopning",
+                "c": "avsärrning",
+                "d": "förgrening",
+                "e": "förvisning",
+                "answer": "förgrening"
+            },
+            {
+                "number": "28",
+                "question": "nekrolog",
+                "a": "oregelverk",
+                "b": "dödsruna",
+                "c": "vattenväxt",
+                "d": "talarstol",
+                "e": "köpebrev",
+                "answer": "dödsruna"
+            },
+            {
+                "number": "29",
+                "question": "koncession",
+                "a": "tillbakagång",
+                "b": "tillkomst",
+                "c": "tillstånd",
+                "d": "tillfällighet",
+                "e": "tillrättavisning",
+                "answer": "tillstånd"
+            },
+            {
+                "number": "30",
+                "question": "perenn",
+                "a": "flerårig",
+                "b": "högtidlig",
+                "c": "välfylld",
+                "d": "fulländad",
+                "e": "tillfällig",
+                "answer": "flerårig"
+            }
+        ]
+    }
+}
