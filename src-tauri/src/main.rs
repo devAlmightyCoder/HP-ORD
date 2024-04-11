@@ -11,15 +11,15 @@ struct GlossaryList {
     e: String,
     answer: String,
 }
-#[derive(Debug, Deserialize, Serialize)]
-struct Item {
-    glossary: String,
+#[derive(Debug, Serialize, Deserialize)]
+struct Glossary {
     title: String,
     season: String,
-    number: String,
     glossaryList: Vec<GlossaryList>,
-
-
+}
+#[derive(Debug, Deserialize, Serialize)]
+struct Item {
+    glossary: Glossary,
 }
 
 fn read_json_files(directory_path: &str) -> Vec<Item> {
