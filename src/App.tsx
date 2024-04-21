@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { SetStateAction, useEffect, useState } from "react";
 import reactLogo from "./assets/react.svg";
 import { invoke } from "@tauri-apps/api/tauri";
 import "./App.css";
@@ -6,16 +6,25 @@ import "./App.css";
 function App() {
   const [greetMsg, setGreetMsg] = useState("");
   const [name, setName] = useState("");
+  const [itemWords, setItemWords] = useState<any[]>([]);
+  // async function greet() {
+  //   //Learn more about Tauri commands at https://tauri.app/v1/guides/features/command
+  //   setGreetMsg(await invoke("greet", { name }));
+  
+  // }
 
-  async function greet() {
-    // Learn more about Tauri commands at https://tauri.app/v1/guides/features/command
-    setGreetMsg(await invoke("greet", { name }));
-  }
+  useEffect(() => {
+      invoke('read_json_files', {directoryPath: 'data'})
+        .then((response) => {
+          console.log("hello", response);
+          setItemWords(response as SetStateAction<any>);
+        })
+        .catch((error) => console.error('Error fetching items:', error));
+  }, []);
 
   return (
     <div className="container">
       <h1>Welcome to Tauri!</h1>
-
       <div className="row">
         <a href="https://vitejs.dev" target="_blank">
           <img src="/vite.svg" className="logo vite" alt="Vite logo" />
@@ -29,12 +38,17 @@ function App() {
       </div>
 
       <p>Click on the Tauri, Vite, and React logos to learn more.</p>
-
+      <p>hello</p>
+      <ul>
+      {itemWords.map((word) => (
+          <li key={word.title}>{word}</li>
+        ))}
+      </ul>
       <form
         className="row"
         onSubmit={(e) => {
           e.preventDefault();
-          greet();
+          // greet();
         }}
       >
         <input

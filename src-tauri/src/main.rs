@@ -3,6 +3,7 @@
 use std::{fs, vec};
 use serde::{Deserialize, Serialize};
 use std::path::Path;
+use tauri::{command, Window};
 
 // Learn more about Tauri commands at https://tauri.app/v1/guides/features/command
 #[tauri::command]
@@ -31,6 +32,7 @@ struct Item {
     glossary: Glossary,
 }
 
+#[command]
 fn read_json_files(directory_path: &str) -> Vec<Item> {
     let mut items: Vec<Item> = Vec::new();
 
@@ -74,18 +76,17 @@ fn read_json_files(directory_path: &str) -> Vec<Item> {
         println!("JSON Data for {}: {}", file_path.display(), json_data);
 
         let item_result = serde_json::from_str::<Item>(&json_data);
-        let item = match item_result {
+        let item = match item_result {      
             Ok(item) => item,
             Err(err) => {
                 eprintln!("Failed to parse JSON file: {:?}", err);
                 continue;
             }
         };
-
-        println!("item: {:?}", item);
+        println!("Received directory path: {}", directory_path);
+        println!("item: {:?}", item.glossary.title);
         items.push(item);
     }
-
     items
 }
 
@@ -93,10 +94,12 @@ fn main() {
     let directory_path = "data";
 
     let items = read_json_files(directory_path);
-    println!("Items: {:?}", items);
+    println!("items {:?}", items);
+    // println!("Items: {:?}", items);
+    // println!("items1 {:?}", items[0].glossary.[0]);
    
     tauri::Builder::default()
-    .invoke_handler(tauri::generate_handler![greet])
+    .invoke_handler(tauri::generate_handler![read_json_files])
     .run(tauri::generate_context!())
     .expect("error while running tauri application");
 }
