@@ -13,10 +13,10 @@ function App() {
   
   // }
 
-  useEffect(() => {
+  useEffect(() => {    
       invoke('read_json_files', {directoryPath: 'data'})
         .then((response) => {
-          console.log("hello", response);
+          console.log(response);
           setItemWords(response as SetStateAction<any>);
         })
         .catch((error) => console.error('Error fetching items:', error));
@@ -24,27 +24,28 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Welcome to Tauri!</h1>
-      <div className="row">
-        <a href="https://vitejs.dev" target="_blank">
-          <img src="/vite.svg" className="logo vite" alt="Vite logo" />
-        </a>
-        <a href="https://tauri.app" target="_blank">
-          <img src="/tauri.svg" className="logo tauri" alt="Tauri logo" />
-        </a>
-        <a href="https://reactjs.org" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
+      {console.log("hej", itemWords[0])}
 
-      <p>Click on the Tauri, Vite, and React logos to learn more.</p>
-      <p>hello</p>
-      <ul>
-      {itemWords.map((word) => (
-          <li key={word.title}>{word}</li>
-        ))}
+      <div>
+          <p>Säsong: {itemWords[0].glossary.season}</p>
+      
+        {itemWords[0].glossary.title.length > 4 ? 
+          <p>År: {itemWords[0].glossary.title.substring(0, itemWords[0].glossary.title.length - 2)}</p> 
+              : <p>itemWords[0].glossary.title</p>}
+      </div>
+      <ul className="list">
+      {itemWords[0] !== 'undefined' && itemWords[0]?.glossary.glossaryList.map((entry: any, idx: any) => (
+          <li key={idx}>
+            <h3>{entry.question}</h3>
+            <p>A: {entry.a}</p>
+            <p>B: {entry.b}</p>
+            <p>C: {entry.c}</p>
+            <p>D: {entry.d}</p>
+            <p>E: {entry.e}</p>
+          </li> 
+ ))}
       </ul>
-      <form
+      {/* <form
         className="row"
         onSubmit={(e) => {
           e.preventDefault();
@@ -57,7 +58,7 @@ function App() {
           placeholder="Enter a name..."
         />
         <button type="submit">Greet</button>
-      </form>
+      </form> */}
 
       <p>{greetMsg}</p>
     </div>
