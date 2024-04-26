@@ -11,7 +11,7 @@
                 "c": "ändrad",
                 "d": "avklarad",
                 "e": "fastställd",
-                "answer": "låtsad"
+                "answer": "b"
             },
             {
                 "number": "2",
@@ -21,7 +21,7 @@
                 "c": "betalning",
                 "d": "uppvaktning",
                 "e": "insamling",
-                "answer": "betalning"
+                "answer": "c"
             },
             {
                 "number": "3",
@@ -31,7 +31,7 @@
                 "c": "överklaga",
                 "d": "förstöra",
                 "e": "återsända",
-                "answer": "förstöra"
+                "answer": "d"
             },
             {
                 "number": "4",
@@ -41,7 +41,7 @@
                 "c": "opassande",
                 "d": "enastående",
                 "e": "finurlig",
-                "answer": "övernaturlig"
+                "answer": "b"
             },
             {
                 "number": "5",
@@ -51,7 +51,7 @@
                 "c": "nöta bort",
                 "d": "stöta ut",
                 "e": "missta sig",
-                "answer": "nöta bort"
+                "answer": "c"
             },
             {
                 "number": "6",
@@ -61,7 +61,7 @@
                 "c": "giltighet",
                 "d": "överlägsenhet",
                 "e": "likformighet",
-                "answer": "likformighet"
+                "answer": "e"
             },
             {
                 "number": "7",
@@ -71,7 +71,7 @@
                 "c": "översvallande",
                 "d": "nedstämd",
                 "e": "omständlig",
-                "answer": "hemlighetsfull"
+                "answer": "a"
             },
             {
                 "number": "8",
@@ -81,7 +81,7 @@
                 "c": "tillfrisknande",
                 "d": "återfödelse",
                 "e": "insjuknande",
-                "answer": "återfödelse"
+                "answer": "d"
             },
             {
                 "number": "9",
@@ -91,7 +91,7 @@
                 "c": "allomfattande",
                 "d": "överskådlig",
                 "e": "ändamålsenlig",
-                "answer": "allomfattande"
+                "answer": "c"
             },
             {
                 "number": "10",
@@ -101,7 +101,7 @@
                 "c": "inbromsning",
                 "d": "kortslutning",
                 "e": "färgskiftning",
-                "answer": "virvelrörelse"
+                "answer": "a"
             },
             {
                 "number": "11",
@@ -111,7 +111,7 @@
                 "c": "bakverk",
                 "d": "färgämne",
                 "e": "avloppssystem",
-                "answer": "utställningsskåp"
+                "answer": "a"
             },
             {
                 "number": "12",
@@ -121,7 +121,7 @@
                 "c": "åhöra",
                 "d": "förnimma",
                 "e": "lyda",
-                "answer": "lyda"
+                "answer": "e"
             },
             {
                 "number": "13",
@@ -131,7 +131,7 @@
                 "c": "slarvig",
                 "d": "tveksam",
                 "e": "oföränderlig",
-                "answer": "oföränderlig"
+                "answer": "e"
             },
             {
                 "number": "14",
@@ -141,7 +141,7 @@
                 "c": "snabbt",
                 "d": "starkt",
                 "e": "sakta",
-                "answer": "starkt"
+                "answer": "d"
             },
             {
                 "number": "15",
@@ -151,7 +151,7 @@
                 "c": "motstånd",
                 "d": "medhåll",
                 "e": "självständighet",
-                "answer": "samlevnad"
+                "answer": "b"
             },
             {
                 "number": "16",
@@ -161,7 +161,7 @@
                 "c": "skryta",
                 "d": "baktala",
                 "e": "skrämma",
-                "answer": "skryta"
+                "answer": "c"
             },
             {
                 "number": "17",
@@ -171,7 +171,7 @@
                 "c": "krigare",
                 "d": "skyddsföremål",
                 "e": "helgedom",
-                "answer": "skyddsföremål"
+                "answer": "d"
             },
             {
                 "number": "18",
@@ -181,7 +181,7 @@
                 "c": "granska",
                 "d": "betvivla",
                 "e": "nedgöra",
-                "answer": "granska"
+                "answer": "c"
             },
             {
                 "number": "19",
@@ -191,7 +191,7 @@
                 "c": "förolämpa",
                 "d": "utmana",
                 "e": "uppmuntra till",
-                "answer": "ingripa mot"
+                "answer": "a"
             },
             {
                 "number": "20",
@@ -201,7 +201,7 @@
                 "c": "uppskov",
                 "d": "dagbok",
                 "e": "räkning",
-                "answer": "dagbok"
+                "answer": "d"
             },
             {
                 "number": "21",
@@ -211,7 +211,7 @@
                 "c": "omtagning",
                 "d": "förfrågan",
                 "e": "växelspel",
-                "answer": "växelspel"
+                "answer": "e"
             },
             {
                 "number": "22",
@@ -221,7 +221,7 @@
                 "c": "begrunda",
                 "d": "tillerkänna",
                 "e": "förhandla",
-                "answer": "förstärka"
+                "answer": "b"
             },
             {
                 "number": "23",
@@ -231,7 +231,7 @@
                 "c": "ofullständighet",
                 "d": "efterblivenhet",
                 "e": "ålderssvaghet",
-                "answer": "modlöshet"
+                "answer": "a"
             },
             {
                 "number": "24",
@@ -241,7 +241,7 @@
                 "c": "ömsesidig",
                 "d": "planmässig",
                 "e": "tvetydlig",
-                "answer": "ömsesidig"
+                "answer": "c"
             },
             {
                 "number": "25",
@@ -251,7 +251,7 @@
                 "c": "oförrätter",
                 "d": "förevändningar",
                 "e": "betänkligheter",
-                "answer": "betänkligheter"
+                "answer": "e"
             },
             {
                 "number": "26",
@@ -261,7 +261,7 @@
                 "c": "utlämna",
                 "d": "anlita",
                 "e": "överge",
-                "answer": "bortföra"
+                "answer": "b"
             },
             {
                 "number": "27",
@@ -271,7 +271,7 @@
                 "c": "avsärrning",
                 "d": "förgrening",
                 "e": "förvisning",
-                "answer": "förgrening"
+                "answer": "d"
             },
             {
                 "number": "28",
@@ -281,7 +281,7 @@
                 "c": "vattenväxt",
                 "d": "talarstol",
                 "e": "köpebrev",
-                "answer": "dödsruna"
+                "answer": "b"
             },
             {
                 "number": "29",
@@ -291,7 +291,7 @@
                 "c": "tillstånd",
                 "d": "tillfällighet",
                 "e": "tillrättavisning",
-                "answer": "tillstånd"
+                "answer": "c"
             },
             {
                 "number": "30",
@@ -301,7 +301,7 @@
                 "c": "välfylld",
                 "d": "fulländad",
                 "e": "tillfällig",
-                "answer": "flerårig"
+                "answer": "a"
             }
         ]
     }

@@ -12,7 +12,7 @@ fn greet(name: &str) -> String {
 }
 
 #[derive(Debug, Deserialize, Serialize)]
-struct GlossaryList {
+struct Question {
     question: String,
     a: String,
     b: String,
@@ -25,16 +25,16 @@ struct GlossaryList {
 struct Glossary {
     title: String,
     season: String,
-    glossaryList: Vec<GlossaryList>,
+    glossaryList: Vec<Question>,
 }
 #[derive(Debug, Deserialize, Serialize)]
-struct Item {
+struct QuizData{
     glossary: Glossary,
 }
 
 #[command]
-fn read_json_files(directory_path: &str) -> Vec<Item> {
-    let mut items: Vec<Item> = Vec::new();
+fn read_json_files(directory_path: &str) -> Vec<QuizData> {
+    let mut items: Vec<QuizData> = Vec::new();
 
     let entries_result = fs::read_dir(directory_path);
     let entries = match entries_result {
@@ -75,7 +75,7 @@ fn read_json_files(directory_path: &str) -> Vec<Item> {
 
         println!("JSON Data for {}: {}", file_path.display(), json_data);
 
-        let item_result = serde_json::from_str::<Item>(&json_data);
+        let item_result = serde_json::from_str::<QuizData>(&json_data);
         let item = match item_result {      
             Ok(item) => item,
             Err(err) => {
@@ -83,8 +83,6 @@ fn read_json_files(directory_path: &str) -> Vec<Item> {
                 continue;
             }
         };
-        println!("Received directory path: {}", directory_path);
-        println!("item: {:?}", item.glossary.title);
         items.push(item);
     }
     items
@@ -94,7 +92,6 @@ fn main() {
     let directory_path = "data";
 
     let items = read_json_files(directory_path);
-    println!("items {:?}", items);
     // println!("Items: {:?}", items);
     // println!("items1 {:?}", items[0].glossary.[0]);
    
@@ -103,22 +100,3 @@ fn main() {
     .run(tauri::generate_context!())
     .expect("error while running tauri application");
 }
-
-
-
-
-// Prevents additional console window on Windows in release, DO NOT REMOVE!!
-// #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
-
-// // Learn more about Tauri commands at https://tauri.app/v1/guides/features/command
-// #[tauri::command]
-// fn greet(name: &str) -> String {
-//     format!("Hello, {}! You've been greeted from Rust!", name)
-// }
-
-// fn main() {
-//     tauri::Builder::default()
-//         .invoke_handler(tauri::generate_handler![greet])
-//         .run(tauri::generate_context!())
-//         .expect("error while running tauri application");
-// }
